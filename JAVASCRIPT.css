@@ -1,0 +1,120 @@
+.box{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items:center;
+    
+    
+}
+.cont{
+    border-radius: 4px;
+    margin:10px 20px;
+    border: 3px solid  black;
+    height:auto;
+    width:336px;
+    
+    text-align: center;
+}
+.cont1{
+   display: flex;
+   align-content: flex-start;
+   border: 1px solid  black;
+    height:30px;
+    width:336px;
+
+}
+.btn1{
+    border-radius: 10px;
+    background-color: violet;
+    margin-left: 45px;
+    text-align: center;
+    margin-right: 113px;
+}
+.btn2{
+    border-radius: 10px;
+    background-color: indigo;
+    
+    text-align: center;
+}
+#result,#refbutton{
+    border-radius: 4px;
+    margin-top: 10px;
+    height:44px;
+    border: 1px solid  black;
+    width:336px;
+
+}
+#real_result{
+    border: 1px solid black;
+    margin-top: 7px;
+    margin-left: 75px;
+    height: 30px;
+    width:170px;
+}
+#resulti{
+    border-radius: 4px;
+    margin-top: 10px;
+    height:44px;
+    border: 1px solid  black;
+    width:336px;
+    font-size: 15px; 
+
+}
+#real{
+    border: 1px solid black;
+    margin-top: 7px;
+    margin-left: 75px;
+    height: 30px;
+    width:170px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    }
+.con{
+      display: flex;
+    justify-content: center;
+    align-items: center;
+   align-content: flex-start;
+   border: 1px solid  black;
+    height:30px;
+    width:336px;
+
+}
+.btn3 {
+    border-radius: 10px;
+    background-color: blue;
+    margin-left: 85px;
+    text-align: center;
+    margin-right: 113px;
+    
+}
+#aj{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  #container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+  }
+  
+  .image {
+    display: block;
+    width: 90px; height: 90px;
+
+  }
+  
+#container img:hover {
+    box-shadow: 0px 15px 20px blue;
+}
+
+.btn4{
+        border-radius: 10px;
+        background-color: green;
+        text-align: center;
+        margin-top: 10px;
+}
+
